@@ -2,12 +2,13 @@
 add a memory ,like ,update and delete memory
 user to signup or login in using google
 
+#Backend Side
 #How to run the project
 cd server
 #start the backend server
 npm start
 
-#client side 
+#client Side 
 <br>
 # cd client
 <br>
