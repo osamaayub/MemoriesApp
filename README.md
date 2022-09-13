@@ -18,5 +18,7 @@ npm start
 # cd client
 <br>
 #start the client side 
+<br>
 npm start
+<br>
 and run on localhost:5000/posts and localhost:5000/user/
