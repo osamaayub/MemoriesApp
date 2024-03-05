@@ -1,24 +1,32 @@
-#Social Media App
-add a memory ,like ,update and delete memory
-user to signup or login in using google
-<br>
+Social Media App
 
-#Backend Side
-<br>
-#How to run the project
-<br>
+This project is a simple social media application where users can add, like, update, and delete memories. Users can sign up or log in using Google authentication.
+Backend Side
+How to Run the Project
+
+    Navigate to the server directory:
+
 cd server
-<br>
-#start the backend server
-<br>
-npm start
 
-#client Side 
-<br>
-# cd client
-<br>
-#start the client side 
-<br>
-npm start
-<br>
-and run on localhost:5000/posts and localhost:5000/user/
+Start the backend server:
+
+    npm start
+if there is no node modules folder in it run the following command to get all the dependencies in your project otherwise it will return error
+       npm install
+
+Client Side
+How to Run the Project
+
+    Navigate to the client directory:
+
+cd client
+
+Start the client side:
+    npm start
+
+Accessing the Application
+
+You can access the application by visiting the following URLs in your web browser:
+
+    localhost:5000/posts: View and interact with memories.
+    localhost:5000/user/: Sign up or log in using Google authentication.
