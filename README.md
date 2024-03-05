@@ -11,7 +11,7 @@ cd server
 Start the backend server:
 
     npm start
-if there is no node modules folder in it run the following command to get all the dependencies in your project otherwise it will return error
+if there is no node modules folder in it run the following command to get all the dependencies in your project otherwise it will return an error
        npm install
 
 Client Side
@@ -21,7 +21,7 @@ How to Run the Project
 
 cd client
 
-Start the client side:
+Start the client side: <br>
     npm start
 
 Accessing the Application
